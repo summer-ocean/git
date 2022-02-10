@@ -1,4 +1,4 @@
-# addとcommitとの差分
+# addとcommitの差分
 ```
 git diff --cached
 ```
