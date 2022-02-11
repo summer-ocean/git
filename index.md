@@ -1,6 +1,7 @@
 [作業ツリー](作業ツリー/index.md)  
 [add](add/index.md)  
 [コミット](コミット/index.md)  
+[マージ](マージ/index.md)  
 
 [確認](確認/index.md)  
 [差分](差分/index.md)  
