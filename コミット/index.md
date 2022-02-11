@@ -1,1 +1,1 @@
-[commit](commit.md)  
+[commit+msg](commit+msg.md)  
