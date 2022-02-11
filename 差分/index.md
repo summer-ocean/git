@@ -1,3 +1,3 @@
-[commit](commit.md)
-[add](add.md)
-[addとcommit](addとcommit.md)
+[commit](commit.md)  
+[add](add.md)  
+[addとcommit](addとcommit.md)  
